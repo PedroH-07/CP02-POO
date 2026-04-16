@@ -1,8 +1,7 @@
 package model;
 
-/**
- * Representa uma rota de entrega com um veiculo e um pacote.
- */
+// Rota de entrega com um veiculo e um pacote.
+
 public class Rota {
 	private final Veiculo veiculo;
 	private final Pacote pacote;

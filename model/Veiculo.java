@@ -1,8 +1,7 @@
 package model;
 
-/**
- * Classe base com os dados comuns de um veiculo.
- */
+// Classe base com os dados comuns de um veiculo.
+
 public class Veiculo {
     private String placa;
     private double capacidadeKg;

@@ -1,8 +1,7 @@
 package model;
 
-/**
- * Representa um caminhao de entrega.
- */
+// caminhao de entrega.
+
 public class Caminhao extends Veiculo {
 	private int eixos;
 

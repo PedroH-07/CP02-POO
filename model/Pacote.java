@@ -1,8 +1,6 @@
 package model;
 
-/**
- * Entidade de carga que sera transportada na rota.
- */
+// Pacote que sera transportada na rota.
 public class Pacote {
 	private String codigo;
 	private double pesoKg;

@@ -1,8 +1,7 @@
 package model;
 
-/**
- * Representa uma moto de entrega.
- */
+
+ // moto de entrega.
 public class Moto extends Veiculo {
 	private boolean possuiBau;
 
